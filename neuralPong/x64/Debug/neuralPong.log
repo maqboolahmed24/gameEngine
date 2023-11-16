@@ -1,90 +1,90 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (neuralPong.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (kingPong.vcxproj, neuralPong.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   main.cpp
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(51,48): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(81,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(51,48): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(81,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(85,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(85,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(88,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(88,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(89,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(89,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(89,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(89,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(92,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(92,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(93,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(93,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(93,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(93,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(98,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(98,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(99,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(99,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(99,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(99,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(102,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(102,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(103,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(103,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(103,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(103,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(109,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(115,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(115,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(189,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(190,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(194,49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(195,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(219,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(221,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(223,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(224,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(228,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(230,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(232,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(233,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-E:\visual studio projects\neuralPong\neuralPong\main.cpp(236,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  neuralPong.vcxproj -> E:\visual studio projects\neuralPong\x64\Debug\kingPong.exe
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(109,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(115,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(115,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(189,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(190,52): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(194,49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(195,51): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(219,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(221,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(223,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(224,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(228,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(230,96): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(232,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(233,99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\visual studio projects\gameEngine\neuralPong\main.cpp(236,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  neuralPong.vcxproj -> E:\visual studio projects\gameEngine\x64\Debug\gameEngine.exe
