@@ -24,7 +24,7 @@
     <ProjectGuid>{620d685c-e15f-474f-8d4c-09c495e14741}</ProjectGuid>
     <RootNamespace>neuralPong</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>kingPong</ProjectName>
+    <ProjectName>gameEngine</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
